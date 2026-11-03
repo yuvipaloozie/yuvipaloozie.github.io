@@ -1,5 +1,12 @@
 # al-folio
 
+Yuvraj Tripathy's Jekyll portfolio, using the al-folio academic theme. The site configuration focuses on data science, deep learning and chemical engineering. The theme documentation and credits below describe the underlying template.
+
+![Jekyll](https://img.shields.io/badge/Jekyll-203858?style=flat-square)
+![Liquid](https://img.shields.io/badge/Liquid-203858?style=flat-square)
+![SCSS](https://img.shields.io/badge/SCSS-203858?style=flat-square)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-203858?style=flat-square)
+
 <div align="center">
 
 [![Preview](readme_preview/al-folio-preview.png)](https://alshedivat.github.io/al-folio/)
@@ -24,10 +31,7 @@
 
 ## User community
 
-The vibrant community of **al-folio** users is growing!
-Academics around the world use this theme for their homepages, blogs, lab pages, as well as webpages for courses, workshops, conferences, meetups, and more.
-Check out the community webpages below.
-Feel free to add your own page(s) by sending a PR.
+Academics use **al-folio** for homepages, blogs, lab pages, courses, workshops and conferences. The following pages show how others use the theme. To add a page, send a PR.
 
 <table>
 <tr>
@@ -493,3 +497,4 @@ Our most active contributors are welcome to join the maintainers team. If you ar
 The theme is available as open source under the terms of the [MIT License](https://github.com/alshedivat/al-folio/blob/main/LICENSE).
 
 Originally, **al-folio** was based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](https://liabogoev.com) and under the MIT license). Since then, it got a full re-write of the styles and many additional cool features.
+
