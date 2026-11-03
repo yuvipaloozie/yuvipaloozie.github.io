@@ -2,10 +2,10 @@
 
 Yuvraj Tripathy's Jekyll portfolio, using the al-folio academic theme. The site configuration focuses on data science, deep learning and chemical engineering. The theme documentation and credits below describe the underlying template.
 
-![Jekyll](https://img.shields.io/badge/Jekyll-203858?style=flat-square)
-![Liquid](https://img.shields.io/badge/Liquid-203858?style=flat-square)
-![SCSS](https://img.shields.io/badge/SCSS-203858?style=flat-square)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-203858?style=flat-square)
+![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=white)
+![Liquid](https://img.shields.io/badge/Liquid-67B246?style=for-the-badge)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
 
 <div align="center">
 
